@@ -37,4 +37,4 @@ In this project, we will build a web application to identify the disaster relate
 ### model folder:
 1. *pkl: The saved model that was trained by tran_classifier.py.
 2. ml_pipeline_preparation.ipynb: The notebook used to test the machine learning learning pipeline.
-3. train_classifier.py: The machine learning pipeline to get the best model that will be uesed by the web app.
+3. train_classifier.py: The machine learning pipeline to get the model that will be uesed by the web app.
